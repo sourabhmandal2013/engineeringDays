@@ -1,0 +1,11 @@
+url,variables,extendeddata,id_type,expected_accountNumber,expected_realmId,expected_status,expected_legalName,expected_businessName,expected_phone,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,5247711112117260,TRUE,merchantNumber,5247711112117260,123146477210974,active,SPA & DECK CREATIONS INC.,INTUIT INC,808344287,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962200153340,TRUE,merchantNumber,4266962200153340,,closed,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266961000407336,TRUE,merchantNumber,4266961000407336,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266961000548279,TRUE,merchantNumber,4266961000548279,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000013215,TRUE,merchantNumber,4266962000013215,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000031944,TRUE,merchantNumber,4266962000031944,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000055042,TRUE,merchantNumber,4266962000055042,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000066908,TRUE,merchantNumber,4266962000066908,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000069316,TRUE,merchantNumber,4266962000069316,,,,,,\
+https://paymentaccount-qal.api.intuit.net/v2/privileged/accounts/,4266962000087433,TRUE,merchantNumber,4266962000087433,,,,,,\
